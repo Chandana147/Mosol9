@@ -1,0 +1,10 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.App{
+    background-color: black;
+    background-image: url("https://i.pinimg.com/736x/01/48/ad/0148adba6222440e83d4b6566365acf6.jpg");
+    background-size: cover;
+}
